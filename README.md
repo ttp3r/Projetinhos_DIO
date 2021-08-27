@@ -5,4 +5,3 @@ Aqui estarei subindo alguns pequenos projetos do curso de Lógica de Programaç�
 
 Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Constantes, Expressões Aritméticas e Literais e Concatenação.
 
-#DIO
