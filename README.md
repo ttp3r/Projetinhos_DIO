@@ -1,4 +1,4 @@
-# Projetinhos_DIO
+# Projetinho_DIO
 Pequenos projetos do curso de Lógica de Programação Essencial - Digital Innovation One
 
 
