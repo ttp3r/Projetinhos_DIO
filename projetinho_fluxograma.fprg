@@ -1,13 +1,5 @@
 <?xml version="1.0"?>
 <flowgorithm fileversion="2.11">
-    <attributes>
-        <attribute name="name" value=""/>
-        <attribute name="authors" value="tali_"/>
-        <attribute name="about" value=""/>
-        <attribute name="saved" value="2021-08-27 02:25:19 "/>
-        <attribute name="created" value="dGFsaV87REVTS1RPUC00OTlTSjlPOzIwMjEtMDgtMjc7IjAyOjA2OjI3ICI7Mjc1Nw=="/>
-        <attribute name="edited" value="dGFsaV87REVTS1RPUC00OTlTSjlPOzIwMjEtMDgtMjc7IjAyOjI1OjE5ICI7NzsyODcz"/>
-    </attributes>
     <function name="Main" type="None" variable="">
         <parameters/>
         <body>
