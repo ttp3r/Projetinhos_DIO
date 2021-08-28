@@ -2,7 +2,7 @@
 <h1>
   DIO - <em>Digital Innovation One</em> é uma plataforma de cursos online que inclui interação entre os usuários e possibilidades de alavancamento de carreira através de parcerias com empresas.
 </h1>
-
+</body>
 <h2>
   Aqui estarei subindo alguns pequenos projetos do Bootcamp Lógica de Programação Essencial, ministrado pelo professor Denilson Bonatti.
 </h2>
@@ -48,3 +48,4 @@ Expressões Literais são constantes e/ou variáveis que têm como resultado val
 <h6>Adendo: todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   contribuições são sempre bem-vindas.
  </h6>
+ </body>
