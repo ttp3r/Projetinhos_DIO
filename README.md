@@ -24,11 +24,10 @@ Fluxograma é uma ferramenta utilizada para representar graficamente um algoritm
 
 <p>
   Nesse código, o funcionário digita o valor das vendas efetuadas nos meses de janeiro, fevereiro, março e abril.<br>
-Se a média de vendas realizadas for igual ou superior a 5000, será concedido um abono de 10%, senão, haverá um abono de 3%.
+Se a média de vendas realizadas for igual ou superior a 5.000, será concedido um abono de 10%, senão, haverá um abono de 3%.
 </p>
 
   <strong>fluxograma_nota_2</strong>
-
 
 <p>
   Uma nova versão de projetinho_fluxograma
@@ -43,5 +42,5 @@ Expressões Literais são constantes e/ou variáveis que têm como resultado val
 </p>
 
 <h6>Adendo: todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
-  contribuições são sempre bem-vindas.
+  Contribuições são sempre bem-vindas :)
  </h6>
