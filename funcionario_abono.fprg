@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="2.11">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="tali_"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2021-08-27 09:06:26 "/>
+        <attribute name="created" value="dGFsaV87REVTS1RPUC00OTlTSjlPOzIwMjEtMDgtMjc7IjA4OjU4OjM2ICI7Mjc3MA=="/>
+        <attribute name="edited" value="dGFsaV87REVTS1RPUC00OTlTSjlPOzIwMjEtMDgtMjc7IjA5OjA2OjI2ICI7MTsyODcx"/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="FUNCIONARIO" type="String" array="False" size=""/>
+            <declare name="JAN, FEV, MAR, ABR, media" type="Real" array="False" size=""/>
+            <input variable="FUNCIONARIO"/>
+            <input variable="JAN"/>
+            <input variable="FEV"/>
+            <input variable="MAR"/>
+            <input variable="ABR"/>
+            <assign variable="media" expression="(JAN+FEV+MAR+ABR)/4"/>
+            <if expression="media&gt;=5.000">
+                <then>
+                    <output expression="&quot;Parabens, voce recebeu um abono de 10%&quot;" newline="True"/>
+                </then>
+                <else>
+                    <output expression="&quot;Parabens, voce recebeu um abono de 3%&quot;" newline="True"/>
+                </else>
+            </if>
+        </body>
+    </function>
+</flowgorithm>
