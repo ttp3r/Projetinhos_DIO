@@ -7,7 +7,7 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
-tomada_de_decisão
+<strong>tomada_de_decisão</strong>
 
 "Tomadas de decisão representam 60% da programação."
 Quando escrevemos programas, pode haver a necessidade de decidir o que fazer dependendo das condições encontradas no processo de execução. 
