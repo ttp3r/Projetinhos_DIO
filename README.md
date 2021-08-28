@@ -20,21 +20,21 @@ No caso desse algoritmo criado no Flowgorithm, toma-se a decisão de recusar com
 
 Fluxograma é uma ferramenta utilizada para representar graficamente um algoritmo, ou seja, a sequência lógica da resolução de um problema.
 
-<strong>funcionario_abono</stong>
+<strong>funcionario_abono</strong>
 
 <p>
   Nesse código, o funcionário digita o valor das vendas efetuadas nos meses de janeiro, fevereiro, março e abril.<br>
 Se a média de vendas realizadas for igual ou superior a 5000, será concedido um abono de 10%, senão, haverá um abono de 3%.
 </p>
 
-  fluxograma_nota_2
+  <strong>fluxograma_nota_2</strong>
 
 
 <p>
   Uma nova versão de projetinho_fluxograma
 </p>
 
-  expressoes_aritmeticas_e_expressoes_literais
+  <strong>expressoes_aritmeticas_e_expressoes_literais</strong>
 
 <br>
 <p>
