@@ -1,7 +1,7 @@
 # Projetinhos_DIO
 <h1>DIO - <em>Digital Innovation One</em> é uma plataforma de cursos online que inclui interação entre os usuários e possibilidades de alavancamento de carreira através de parcerias com empresas.</h1>
 
-<h2>Aqui estarei subindo alguns pequenos projetos do Bootcamp de Lógica de Programação Essencial, ministrado pelo professor Denilson Bonatti.</h2>
+<h2>Aqui estarei subindo alguns pequenos projetos do Bootcamp Lógica de Programação Essencial, ministrado pelo professor Denilson Bonatti.</h2>
 
 Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Constantes, Expressões Aritméticas e Literais e Concatenação.
 
