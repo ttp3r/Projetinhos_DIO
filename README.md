@@ -41,6 +41,6 @@ Se a média de vendas realizadas for igual ou superior a 5.000, será concedido 
 Expressões Literais são constantes e/ou variáveis que têm como resultado valores literais, ou seja, utilizamos expressões literais na atribuição de valor para uma variável ou constante.
 </p>
 
-<h6>Adendo:Esse é o meu primeiro repositório. Todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
+<h6>Adendo: esse é o meu primeiro repositório. Todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   Contribuições são sempre bem-vindas :)
  </h6>
