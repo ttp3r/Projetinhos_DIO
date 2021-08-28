@@ -14,7 +14,7 @@ Os projetinhos:
 <strong>tomada_de_decisão</strong>
 
 "Tomadas de decisão representam 60% da programação."<br>
-Quando escrevemos programas, pode haver a necessidade de decidir o que fazer dependendo das condições encontradas no processo de execução. 
+Quando escrevemos programas, pode haver a necessidade de decidir o que fazer dependendo das condições encontradas no processo de execução.<br> 
 No caso desse algoritmo criado no Flowgorithm, toma-se a decisão de recusar compras de clientes que não efetuam o pagamento via cartão de crédito.
 
 <strong>projetinho_fluxograma</strong>
@@ -35,6 +35,6 @@ Uma nova versão de projetinho_fluxograma
 Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
 Expressões Literais são constantes e/ou variáveis que têm como resultado valores literais, ou seja, utilizamos expressões literais na atribuição de valor para uma variável ou constante.
 
-<h6>Adendo: todos os códigos forma apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
+<h6>Adendo: todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   contribuições são sempre bem-vindas.
-  </h6>
+ </h6>
