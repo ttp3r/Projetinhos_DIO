@@ -2,7 +2,6 @@
 <h1>
   DIO - <em>Digital Innovation One</em> é uma plataforma de cursos online que inclui interação entre os usuários e possibilidades de alavancamento de carreira através de parcerias com empresas.
 </h1>
-</body>
 <h2>
   Aqui estarei subindo alguns pequenos projetos do Bootcamp Lógica de Programação Essencial, ministrado pelo professor Denilson Bonatti.
 </h2>
@@ -28,17 +27,15 @@ Fluxograma é uma ferramenta utilizada para representar graficamente um algoritm
 Se a média de vendas realizadas for igual ou superior a 5000, será concedido um abono de 10%, senão, haverá um abono de 3%.
 </p>
 
-<strong>
   fluxograma_nota_2
-</strong>
+
 
 <p>
   Uma nova versão de projetinho_fluxograma
 </p>
 
-<strong>
   expressoes_aritmeticas_e_expressoes_literais
-</strong>
+
 <br>
 <p>
   Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
@@ -48,4 +45,3 @@ Expressões Literais são constantes e/ou variáveis que têm como resultado val
 <h6>Adendo: todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   contribuições são sempre bem-vindas.
  </h6>
- </body>
