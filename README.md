@@ -23,21 +23,27 @@ Fluxograma é uma ferramenta utilizada para representar graficamente um algoritm
 
 <strong>funcionario_abono</stong>
 
-Nesse código, o funcionário digita o valor das vendas efetuadas nos meses de janeiro, fevereiro, março e abril.<br>
+<p>
+  Nesse código, o funcionário digita o valor das vendas efetuadas nos meses de janeiro, fevereiro, março e abril.<br>
 Se a média de vendas realizadas for igual ou superior a 5000, será concedido um abono de 10%, senão, haverá um abono de 3%.
+</p>
 
 <strong>
   fluxograma_nota_2
 </strong>
 
-Uma nova versão de projetinho_fluxograma
+<p>
+  Uma nova versão de projetinho_fluxograma
+</p>
 
 <strong>
   expressoes_aritmeticas_e_expressoes_literais
-</strong><br>
-
-Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
+</strong>
+<br>
+<p>
+  Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
 Expressões Literais são constantes e/ou variáveis que têm como resultado valores literais, ou seja, utilizamos expressões literais na atribuição de valor para uma variável ou constante.
+</p>
 
 <h6>Adendo: todos os códigos foram apenas copiados e colados do Flowgorithm e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   contribuições são sempre bem-vindas.
