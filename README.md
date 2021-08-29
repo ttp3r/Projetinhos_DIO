@@ -10,6 +10,10 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
+<strong>media_aluno_ex_um</strong>
+
+Primeiro pseudocódigo escrito no Portugol. O conceito é o mesmo do <strong>fluxograma_nota</strong>: um programa capaz de somar as notas de determinado usuário e calcular sua média.
+
 <strong>tomada_de_decisão</strong>
 
 "Tomadas de decisão representam 60% da programação."<br>
