@@ -10,6 +10,10 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
+<strong>media_de_vendas</strong>
+
+Calcula a média de vendas de determinado funcionário ao longo de quatro meses. Da mesma forma que o criado em Flowgorithm <strong>funcionario_abono</strong>, porém dessa vez criado em pseudocódigo no Portugol Studio.
+
 <strong>media_aluno_ex_um</strong>
 
 Primeiro pseudocódigo escrito no Portugol. O conceito é o mesmo do <strong>fluxograma_nota</strong>: um programa capaz de somar as notas de determinado usuário e calcular sua média.
