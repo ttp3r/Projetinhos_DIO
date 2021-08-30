@@ -10,6 +10,10 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
+<strong>tabuada</strong>
+
+Tabuada com <em>laços de repetição</em> criada no Portugol Studio.
+
 <strong>_stream_</strong>
 
 É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.<br>
