@@ -6,7 +6,7 @@
   Aqui estarei subindo alguns pequenos projetos do Bootcamp Lógica de Programação Essencial, ministrado pelo professor Denilson Bonatti.
 </h2>
 
-Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Constantes, Expressões Aritméticas e Literais e Concatenação.
+Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Constantes, Expressões Aritméticas e Literais, Concatenação, Estrutura de Repetição, Portugol Studio, Desvios Condicionais, Laços de Repetição em Portugol, Matrizes e Vetores.
 
 Os projetinhos:
 
