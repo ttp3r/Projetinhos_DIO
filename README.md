@@ -12,8 +12,8 @@ Os projetinhos:
 
 <strong>_stream_</strong>
 
-É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.
-Utilizadas funções de quebra de linha ("\n"), comentários (//), e desvio condicional <em>caso</em>.
+É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.<br>
+Utilizadas funções de <em>quebra de linha</em> ("\n"), <em>comentários</em> (//), e desvio condicional <em>caso</em>.
 
 <strong>_stream_se_</strong>
 
