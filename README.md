@@ -10,19 +10,6 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
-<strong>tabuada</strong>
-
-Tabuada com <em>laços de repetição</em> criada no Portugol Studio.
-
-<strong>_stream_</strong>
-
-É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.<br>
-Utilizadas funções de <em>quebra de linha</em> ("\n"), <em>comentários</em> (//), e desvio condicional <em>caso</em>.
-
-<strong>_stream_se_</strong>
-
-Programa que possibilita a escolha de stream pelo usuário utilizando desvio condicional <em>se</em>.
-
 <strong>media_de_vendas</strong>
 
 Calcula a média de vendas de determinado funcionário ao longo de quatro meses. Da mesma forma que o criado em Flowgorithm <strong>funcionario_abono</strong>, porém dessa vez criado em pseudocódigo no Portugol Studio.
@@ -61,6 +48,27 @@ Se a média de vendas realizadas for igual ou superior a 5.000, será concedido 
   Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
 Expressões Literais são constantes e/ou variáveis que têm como resultado valores literais, ou seja, utilizamos expressões literais na atribuição de valor para uma variável ou constante.
 </p>
+
+<strong>matriz</strong>
+
+Uma matriz é uma coleção de variáveis do mesmo tipo, acessíveis com um único nome e armazenadas contiguamente na memória do computador.
+
+<strong>vetores</strong>
+
+Os vetores são matrizes de uma só dimensão.
+
+<strong>tabuada</strong>
+
+Tabuada com <em>laços de repetição</em> criada no Portugol Studio.
+
+<strong>_stream_</strong>
+
+É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.<br>
+Utilizadas funções de <em>quebra de linha</em> ("\n"), <em>comentários</em> (//), e desvio condicional <em>caso</em>.
+
+<strong>_stream_se_</strong>
+
+Programa que possibilita a escolha de stream pelo usuário utilizando desvio condicional <em>se</em>.
 
 <h6>Adendo: esse é o meu primeiro repositório. Todos os códigos foram apenas copiados e colados do Flowgorithm  e do Portugol e serão editados conforme eu for desenvolvendo minhas habilidades.<br>
   Contribuições são sempre bem-vindas :)
