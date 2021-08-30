@@ -16,7 +16,7 @@ Calcula a média de vendas de determinado funcionário ao longo de quatro meses.
 
 <strong>media_aluno_ex_um</strong>
 
-Primeiro pseudocódigo escrito no Portugol. O conceito é o mesmo do <strong>fluxograma_nota</strong>: um programa capaz de somar as notas de determinado usuário e calcular sua média.
+Primeiro pseudocódigo escrito no Portugol. O conceito é o mesmo do <strong>fluxograma_nota</strong>: um programa capaz de somar as notas de determinado usuário e calcular sua média. Aqui foi utilizada a função de comentários.
 
 <strong>tomada_de_decisão</strong>
 
