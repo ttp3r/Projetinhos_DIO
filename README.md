@@ -10,6 +10,15 @@ Tema das aulas: Lógica, Algoritmos, Pseudocódigo, Fluxograma, Variáveis, Cons
 
 Os projetinhos:
 
+<strong>_stream_</strong>
+
+É um programa que possibilita ao usuário, selecionar qual stream deseja utilizar.
+Utilizadas funções de quebra de linha ("\n"), comentários (//), e desvio condicional <em>caso</em>.
+
+<strong>_stream_se_</strong>
+
+Programa que possibilita a escolha de stream pelo usuário utilizando desvio condicional <em>se</em>.
+
 <strong>media_de_vendas</strong>
 
 Calcula a média de vendas de determinado funcionário ao longo de quatro meses. Da mesma forma que o criado em Flowgorithm <strong>funcionario_abono</strong>, porém dessa vez criado em pseudocódigo no Portugol Studio.
