@@ -54,7 +54,6 @@ Se a média de vendas realizadas for igual ou superior a 5.000, será concedido 
 
   <strong>expressoes_aritmeticas_e_expressoes_literais</strong>
 
-<br>
 <p>
   Expressões Aritméticas utilizam operadores e funções aritméticas, podendo elas ser constantes e/ou variáveis;<br>
 Expressões Literais são constantes e/ou variáveis que têm como resultado valores literais, ou seja, utilizamos expressões literais na atribuição de valor para uma variável ou constante.
